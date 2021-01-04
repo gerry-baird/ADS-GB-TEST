@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>output-default-setting</name>
+  <uuid>9412f808-5e23-4662-a749-b092ac5b60e0</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[set decision to Age + 30 ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>
